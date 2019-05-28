@@ -21,3 +21,7 @@ class Eut:
         self.project_num = "Empty"
         self.client = "Empty"
         self.regions = "Empty"
+
+    # def configure_eut(self, in_channel, in_modulation, in_bandwidth, in_power, in_radio, in_antennae):
+      #
+
